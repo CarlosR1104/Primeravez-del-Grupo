@@ -30,3 +30,20 @@ def multiplicacion(numero1, numero2):
     resultado = numero1*numero2
     print("El resultado de la multiplicacion es: ", resultado)
 
+
+
+
+
+
+
+
+def IngresarNumero(numero1,numero2):
+
+    print("Que le importa sapo ")
+
+
+    if numero2==0:
+        print("el divisor no puede ser cero:git ")
+
+    else:
+        print(numero1/numero2)
