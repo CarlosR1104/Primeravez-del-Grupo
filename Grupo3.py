@@ -17,7 +17,16 @@ valor = Ingresar_Numeros()
 print(suma(valor[0], valor[1]))
 
 
+def resta (numero1,numero2):
+
+    resta=numero1-numero2
+    print ("La resta es: ",resta)
+
+resta(numero1,numero2)
+
+
 def multiplicacion(numero1, numero2):
     print("Vamos a hacer una multiplicacion")
     resultado = numero1*numero2
     print("El resultado de la multiplicacion es: ", resultado)
+
