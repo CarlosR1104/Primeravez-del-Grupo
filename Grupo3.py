@@ -37,6 +37,11 @@
 
 
 
+def multiplicacion(numero1,numero2):
+    print("Vamos a hacer una multiplicacion")
+    resultado=numero1*numero2
+    print("El resultado de la multiplicacion es: ",resultado)
+    
 
 
 
