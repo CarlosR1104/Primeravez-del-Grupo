@@ -57,14 +57,13 @@
 
 
 
-def IngresarNumero():
+def IngresarNumero(numero1,numero2):
 
-numero1=int(input("ingrese el primer  numero:"))
+    print("Que le importa sapo ")
 
-numero2=int(input("ingrese el segundo numero:"))
 
-if numero2==0:
-    print("el divisor no puede ser cero")
+    if numero2==0:
+        print("el divisor no puede ser cero:git ")
 
-else:
-    print(numero1/numero2)
+    else:
+        print(numero1/numero2)
